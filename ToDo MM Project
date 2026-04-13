@@ -3,20 +3,20 @@
 
 WEEK 1
 ----------------------------------------------------------------
-[ ] Confirm and download NCAA Tournament Results dataset (Kaggle)
-[ ] Form group
-[ ] Make a ToDo file and upload it to the class repository
-[ ] Start working on the skeleton of the project (.Rmd or .R file)
+[X] Confirm and download NCAA Tournament Results dataset (Kaggle)
+[X] Form group
+[X] Make a ToDo file and upload it to the class repository
+[X] Start working on the skeleton of the project (.Rmd or .R file)
  
 ----------------------------------------------------------------
 WEEK 2
 DATA & EDA
 ----------------------------------------------------------------
-[ ] Load and inspect data in R (head, str, summary)
-[ ] Clean column names and standardize formatting
-[ ] Filter dataset to relevant years (1985-2024)
+[X] Load and inspect data in R (head, str, summary)
+[X] Clean column names and standardize formatting
+[X] Filter dataset to relevant years (1985-2024)
 [ ] Create derived variables:
-    [ ] upset (TRUE/FALSE — did lower seed win?)
+    [X] upset (TRUE/FALSE — did lower seed win?)
     [ ] seed_diff (absolute difference between seed numbers)
     [ ] round_num (numeric ordering of tournament rounds)
 [ ] Summary statistics (win counts, upset counts by seed/round)
@@ -28,7 +28,7 @@ WEEK 3
 VISUALIZATIONS
 ----------------------------------------------------------------
 Win % by Seed
-[ ] Bar chart: win percentage for seeds 1-16
+[X] Bar chart: win percentage for seeds 1-16
 [ ] Color code by performance tier (high/mid/low)
  
 Upset Frequency
