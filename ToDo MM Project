@@ -19,9 +19,9 @@ DATA & EDA
     [X] upset (TRUE/FALSE — did lower seed win?)
     [ ] seed_diff (absolute difference between seed numbers)
     [ ] round_num (numeric ordering of tournament rounds)
-[ ] Summary statistics (win counts, upset counts by seed/round)
-[ ] Win percentage by seed (table)
-[ ] Upset rate by tournament round (table)
+[X] Summary statistics (win counts, upset counts by seed/round)
+[X] Win percentage by seed (table)
+[X] Upset rate by tournament round (table)
  
 ----------------------------------------------------------------
 WEEK 3
