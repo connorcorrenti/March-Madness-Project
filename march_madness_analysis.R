@@ -1,6 +1,6 @@
 # ============================================================
 # How Predictable Is March Madness?
-# Connor Correnti & Mike Zeghibe | Spring 2026
+# Connor Correnti, Mike Zeghibe, & Andrew Lynch | Spring 2026
 # ============================================================
 
 library(tidyverse)
