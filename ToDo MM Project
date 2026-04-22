@@ -15,10 +15,10 @@ DATA & EDA
 [X] Load and inspect data in R (head, str, summary)
 [X] Clean column names and standardize formatting
 [X] Filter dataset to relevant years (1985-2024)
-[ ] Create derived variables:
+[x] Create derived variables:
     [X] upset (TRUE/FALSE — did lower seed win?)
-    [ ] seed_diff (absolute difference between seed numbers)
-    [ ] round_num (numeric ordering of tournament rounds)
+    [x] seed_diff (absolute difference between seed numbers)
+    [x] round_num (numeric ordering of tournament rounds)
 [X] Summary statistics (win counts, upset counts by seed/round)
 [X] Win percentage by seed (table)
 [X] Upset rate by tournament round (table)
@@ -29,19 +29,19 @@ VISUALIZATIONS
 ----------------------------------------------------------------
 Win % by Seed
 [X] Bar chart: win percentage for seeds 1-16
-[ ] Color code by performance tier (high/mid/low)
+[X] Color code by performance tier (high/mid/low)
  
 Upset Frequency
-[ ] Heatmap: upset rate for each seed matchup combination
-[ ] Bar chart: upset rate by round (First Round vs. Elite 8, etc.)
+[x] Heatmap: upset rate for each seed matchup combination
+[x] Bar chart: upset rate by round (First Round vs. Elite 8, etc.)
  
 Trends Over Time
-[ ] Line chart: annual upset rate from 1985-2024
-[ ] Add smoothed trend line (geom_smooth)
-[ ] Annotate notable years (e.g., 2018 UMBC upset)
+[x] Line chart: annual upset rate from 1985-2024
+[x] Add smoothed trend line (geom_smooth)
+[x] Annotate notable years (e.g., 2018 UMBC upset)
  
 Bracket Chaos (Bonus)
-[ ] Stacked bar or ridgeline chart: how deep each seed advances
+[x] Stacked bar or ridgeline chart: how deep each seed advances
  
 ----------------------------------------------------------------
 WEEK 4
